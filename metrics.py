@@ -1,8 +1,3 @@
-"""
-metrics.py
-Evaluation metrics for regression analysis.
-"""
-
 import torch
 
 def mse(y_true: torch.Tensor, y_pred: torch.Tensor) -> float:
