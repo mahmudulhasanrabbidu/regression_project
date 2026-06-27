@@ -1,8 +1,3 @@
-"""
-utils.py
-Utility functions for data scaling, batching, splitting, and saving/loading models.
-"""
-
 import torch
 import random
 import os
