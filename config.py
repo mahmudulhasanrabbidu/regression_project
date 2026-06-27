@@ -1,8 +1,3 @@
-"""
-config.py
-Contains all hyperparameters and global configurations for the regression project.
-"""
-
 import torch
 
 # Global Configuration
