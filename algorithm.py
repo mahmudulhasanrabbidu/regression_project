@@ -1,8 +1,3 @@
-"""
-algorithm.py
-Implementation of 9 distinct regression algorithms using Python and PyTorch from scratch.
-"""
-
 import torch
 import torch.nn as nn
 import os
